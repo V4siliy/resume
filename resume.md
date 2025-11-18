@@ -98,7 +98,7 @@ Software Engineer with 4+ years of production experience transitioning to AI/ML 
 
 ---
 
-## 📚 WRITING & THOUGHT LEADERSHIP
+## WRITING & THOUGHT LEADERSHIP
 
 ### "Сказать нельзя отказать" — AI & Prompt Engineering Guide
 Technical book on LLM fundamentals, advanced prompt engineering, and AI security.
