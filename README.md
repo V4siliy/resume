@@ -13,6 +13,11 @@ This repository contains my resume, portfolio, and ongoing learning documentatio
 - Languages: Python, Kotlin, Go | Frameworks: Django, DSPy, Celery
 - Currently seeking: AI Engineer role (EU remote) with growth opportunities
 
+## 📄 Resume Versions
+
+- [Full Resume (English)](./resume.md)
+- [PDF Export](./resume.pdf)
+
 ## 🚀 Featured Projects
 
 ### 1. Conference Speaker Finder
