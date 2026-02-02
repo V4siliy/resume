@@ -1,8 +1,8 @@
 # VASILIY CHERNYKH
 **AI Engineer | Release Engineer |Programmer**
 
-📍 Novi Sad, Serbia | 📧 v4siliy@gmail.com | 📱 +381 61 65 95 472
-💼 [LinkedIn: V4siliy](https://linkedin.com/in/V4siliy) | 💻 [GitHub: V4siliy](https://github.com/V4siliy) | ✈️ [Telegram: @V4siliy](https://t.me/V4siliy)
+📍 Novi Sad, Serbia | 📧 job@vasiliy.ch | 📱 +381 61 65 95 472
+💼 https://linkedin.com/in/V4siliy | 💻 https://github.com/V4siliy | ✈️ https://t.me/V4siliy
 
 ---
 
@@ -31,7 +31,7 @@ Software Engineer with 4+ years of production experience transitioning to AI/ML 
 ## PROFESSIONAL EXPERIENCE
 
 ### **Playrix** | Remote, Serbia  
-**Programmer** | Dec 2020 - Present
+**Programmer** | Dec 2020 - December 2025
 
 - Built and maintained **CI/CD pipelines** for multi-platform deployments using TeamCity
 - Developed **internal automation tools and services** using Python, Kotlin, and Shell to streamline application development, testing, and deployment workflows
